@@ -1,0 +1,1 @@
+enum ApiError { timeout, serverError }

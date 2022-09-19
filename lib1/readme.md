@@ -1,0 +1,1 @@
+// this project structure is based on clean architecture by Robert C Martin
