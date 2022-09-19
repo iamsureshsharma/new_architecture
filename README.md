@@ -15,7 +15,7 @@ This is a proposed architecture, created after going through the architectures f
  
 > This architecture is **based** on Uncle Bob's `Clean Architecture Concept`, not pure.
 
-For Complex projects` Clean architecture is fine but for the mid-sized project it becomes hectic
+For Complex projects `Clean architecture` is fine but for the mid-sized project it becomes hectic
 
 this one is in sync with all above-mentioned architecturess
 
